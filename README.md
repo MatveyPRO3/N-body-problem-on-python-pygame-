@@ -1,0 +1,1 @@
+This script runs N body problem visualizing on pygame
